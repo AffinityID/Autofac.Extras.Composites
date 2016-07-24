@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$id$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <description>$description$</description>
+    <projectUrl>https://github.com/AffinityID/Autofac.Extras.Composites</projectUrl>
+    <tags>autofac</tags>
+    <releaseNotes>
+    </releaseNotes>
+   </metadata>
+</package>
